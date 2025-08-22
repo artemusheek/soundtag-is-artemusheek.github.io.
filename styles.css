@@ -11,7 +11,7 @@ audio {
 }
 
 .sound-btn {
-    padding: 2rem 4rem;
+    padding: 4rem 8rem;
     border-radius: 4rem;
     font-size: 8rem;;
     color :#fff;
@@ -19,6 +19,7 @@ audio {
     background-color: red;
     cursor: pointer;
 }
+
 
 
 
