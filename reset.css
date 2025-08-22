@@ -32,7 +32,7 @@ video,
 picture,
 canvas,
 svg {
-   max-width: 80%;
+   max-width: 100%;
 }
 
 input,
@@ -52,3 +52,4 @@ h6 {
     overflow-wrap: break-word;
 
 }    
+
