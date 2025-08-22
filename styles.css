@@ -12,12 +12,13 @@ audio {
 
 .sound-btn {
     padding: 3.5rem 8rem;
-    border-radius: 5.5rem;
+    border-radius: 4rem;
     font-size: 0.9rem;;
     color :#fff;
     font-weight: 800;
     background-color: red;
     cursor: pointer;
 }
+
 
 
