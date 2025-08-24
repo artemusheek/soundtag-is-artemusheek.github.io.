@@ -11,14 +11,16 @@ audio {
 }
 
 .sound-btn {
-    padding: 3.5rem 8rem;
-    border-radius: 5rem;
-    font-size: 3rem;;
-    color :#fff;
-    font-weight: 800;
-    background-color: red;
-    cursor: pointer;
+     width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            background-image: url('https://image.made-in-china.com/201f0j10wdvVaCMJNOcB/Manufacturer-Factory-Direct-Sale-of-Best-Price-ASTM-DIN-En-JIS-ISO-SGS-317L-430-443-Customized-Polishing-Welded-Pipe-Stainless-Steel-Tube-Price-Per-Piece.jpg');
+            background-size: cover;
+            border: none;
+            cursor: pointer;
+            outline: none;
 }
+
 
 
 
