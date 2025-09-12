@@ -20,12 +20,23 @@ audio {
             cursor: pointer;
             outline: none;
 }
+ .bottom-text{
+    position: absolute;
+    margin-top: 90vh;
+     font-size: 2rem;
+     color: #fff;
+}
+.text1{
+    position: relative;
+    bottom:27rem
 
+}
 
+.text2{
+     margin-left: 32rem;
+     font-size: 80%
 
-
-
-
+}
 
 
 
